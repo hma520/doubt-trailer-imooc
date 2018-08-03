@@ -1,0 +1,14 @@
+{
+  "name": "doubt-trailer-imooc",
+  "version": "1.0.0",
+  "main": "server/index.js",
+  "repository": "git@github.com:hma520/doubt-trailer-imooc.git",
+  "author": "hma520 <hma520@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.2"
+  },
+  "scripts": {
+    "start":"node server/index.js"
+  }
+}
